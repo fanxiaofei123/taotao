@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [01/Jun/2018:15:03:49 +0800] "GET /search.html?q=one HTTP/1.1" 200 22275 http-bio-8085-exec-1 2144
-0:0:0:0:0:0:0:1 - - [01/Jun/2018:15:04:12 +0800] "GET /search.html?q=one HTTP/1.1" 200 22896 http-bio-8085-exec-7 100
